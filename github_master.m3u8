@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
+https://raw.githubusercontent.com/minarkush80/deepseek-v3-5c45/refs/heads/master/720p/github_playlist_720p.m3u8?_cb=1753633957
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1920x1080
+https://raw.githubusercontent.com/minarkush80/deepseek-v3-5c45/refs/heads/master/1080p/github_playlist_1080p.m3u8?_cb=1753633957
