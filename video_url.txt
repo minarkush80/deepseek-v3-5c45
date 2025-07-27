@@ -1,0 +1,5 @@
+Player URL:
+https://minarkush80.github.io/player/?list=https://raw.githubusercontent.com/minarkush80/deepseek-v3-5c45/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/minarkush80/deepseek-v3-5c45/refs/heads/master/github_master.m3u8
